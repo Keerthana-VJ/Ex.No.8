@@ -1,4 +1,4 @@
-## Exp 8: Reproducing an Image Using Prompts for Image Generation
+# Exp 8: Reproducing an Image Using Prompts for Image Generation
 
 ### NAME: KEERTHANA V
 ### REG NO: 212223220045
